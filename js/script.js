@@ -1,5 +1,5 @@
 /*
- * js/script.js for Hangman.bauska.org 
+ * Hangman/js/script.js for Hangman.bauska.org 
  */
 
 // Word selection.
